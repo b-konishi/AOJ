@@ -1,3 +1,4 @@
+// git clone git@github.com:meriyasu/AOJ.git
 #include<stdio.h>
 
 int main()
